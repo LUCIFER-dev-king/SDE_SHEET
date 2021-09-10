@@ -4,7 +4,7 @@
 //Bruteforce
 #include <bits/stdc++.h>
 using namespace std;
-class Solution
+class Solutio1
 {
 public:
     void swap(int *xp, int *yp)
@@ -33,7 +33,7 @@ public:
 };
 
 //Optimal Time O(N) and Space: O(1)
-class Solution1
+class Solution2
 {
 public:
     void swap(int *a, int *b)
