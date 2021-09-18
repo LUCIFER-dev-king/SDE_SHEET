@@ -35,7 +35,7 @@ public:
   }
 };
 
-// Optimal solution. Tc-> O(n2) sp->O(1)
+// Optimal solution. Tc-> O(n2) SP->O(1)
 //Edge Case: [[1,2,3,4],[5,0,7,8],[0,10,11,12],[13,14,15,0]]
 class Solution1
 {
