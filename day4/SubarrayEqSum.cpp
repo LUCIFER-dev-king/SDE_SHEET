@@ -3,7 +3,7 @@ using namespace std;
 
 //https://leetcode.com/problems/subarray-sum-equals-k/solution/
 
-//BruteFore tc O(N3) sp O(1)
+//BruteForce tc O(N3) sp O(1)
 class Solution1
 {
 public:
