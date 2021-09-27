@@ -23,7 +23,6 @@ public:
 
     for (it = map.begin(); it != map.end(); it++)
     {
-      // cout<<it->first<<it->second<<endl;
       if (it->second > (nums.size() / 2))
         return it->first;
     }
