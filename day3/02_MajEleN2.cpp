@@ -31,7 +31,7 @@ public:
   }
 };
 
-//Boyer's Moore Voting Algorithm tc->O(N) sp O(1)
+//Boyer's Moore Voting Algorithm tc->O(N) sp-> O(1)
 class Solution2
 {
 public:
