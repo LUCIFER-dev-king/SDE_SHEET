@@ -3,7 +3,7 @@ using namespace std;
 
 //https://leetcode.com/problems/powx-n/submissions/
 
-//Bruteforce tc -> O(n) sp O(1)
+//Bruteforce tc -> O(n) sp-> O(1)
 class Solution1
 {
 public:
