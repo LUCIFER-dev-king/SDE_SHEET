@@ -7,7 +7,7 @@ using namespace std;
   TC -> O(N2) SP -> O(1)
 */
 
-//This uses hash map tc O(N) and sp O(N)
+//This uses hash map tc-> O(N) and sp O(N)
 class Solution1
 {
 public:
