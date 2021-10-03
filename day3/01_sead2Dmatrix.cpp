@@ -45,7 +45,7 @@ public:
   }
 };
 
-// O(log2(mn)) sp->o(1)
+// TC->O(log2(mn)) sp->o(1)
 class Solution
 {
 public:
