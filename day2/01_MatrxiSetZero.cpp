@@ -3,7 +3,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Straight forward solution. Tc->O(m*n + m + n) sp O(m+n)
+// Straight forward solution. Tc->O(m*n + m + n) sp->O(m+n)
 class Solution
 {
 public:
