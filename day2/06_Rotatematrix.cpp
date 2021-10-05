@@ -37,7 +37,7 @@ public:
   }
 };
 
-//Transpose matrix and reverse it. tc->o(n2) + o(n2), sp o(1)
+//Transpose matrix and reverse it. tc->o(n2) + o(n2), sp->o(1)
 class Solution2
 {
 public:
