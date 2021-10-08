@@ -50,7 +50,7 @@ public:
   }
 };
 
-/*Faster tgeb 64% and Space Efficient 91.29%*/
+/*Faster than 64% and Space Efficient 91.29%*/
 class Solution2
 {
 public:
